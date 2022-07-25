@@ -25,7 +25,7 @@ public class ModBlocks {
                     UniformIntProvider.create(13, 50)), ModItemGroup.RYE);
 
     public static final Block DEEPSLATE_MOISSANITE_ORE = registerBlock("deepslate_moissanite_ore",
-            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(8f).requiresTool(),
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(3f).requiresTool(),
                     UniformIntProvider.create(13, 50)), ModItemGroup.RYE);
 
     public static final Block MOISSANITE_BLOCK = registerBlock("moissanite_block",
