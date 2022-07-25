@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nethercrops:moissanite_block"
+    }
+  ],
+  "result": {
+    "item": "nethercrops:moissanite",
+    "count": 9
+  }
+}

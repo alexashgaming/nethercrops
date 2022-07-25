@@ -1,0 +1,14 @@
+{
+  "item.nethercrops.rye": "Rye",
+  "item.nethercrops.ryeseed": "RyeSeed",
+  "item.nethercrops.raw_moissanite": "Raw Moissanite",
+  "item.nethercrops.moissanite": "Moissanite",
+  "item.nethercrops.random_stick": "Random stick",
+  "block.nethercrops.pumice_block": "Pumice",
+  "block.nethercrops.nether_soil": "Nether Soil",
+  "block.nethercrops.deepslate_moissanite_ore": "Deepslated Moissanite Ore",
+  "block.nethercrops.moissanite_ore": "Moissanite Ore",
+  "block.nethercrops.moissanite_block": "Moissanite Block",
+
+  "itemGroup.nethercrops.rye": "nethercrops tab"
+}

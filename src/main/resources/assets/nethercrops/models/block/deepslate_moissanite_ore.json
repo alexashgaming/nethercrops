@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nethercrops:block/deepslate_moissanite_ore"
+  }
+}
