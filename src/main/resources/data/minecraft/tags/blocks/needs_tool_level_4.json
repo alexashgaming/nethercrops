@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "nethercrops:deepslate_moissanite_ore",
+    "nethercrops:moissanite_ore",
+    "nethercrops:moissanite_block"
+  ]
+}
